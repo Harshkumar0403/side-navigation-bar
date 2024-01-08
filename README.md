@@ -5,7 +5,7 @@ Welcome to the Animated Side Navigation Toggler Bar repository! This project fea
 * Intuitive Icons: Easily navigate through different sections with icons representing Dashboard, Products, Orders, Shipping, Settings, Customers, and Logout.
 
 ## Getting Started
-* Clone the repository: git clone https://github.com/Harshkumar0403/side-navigation-bar
+* Clone the repository: git clone https://github.com/Harshkumar0403/side-navigation-bar.git
 * Open index.html in your browser
   
 ## Acknowledgments
